@@ -1,0 +1,20 @@
+# Compiled class files
+bin/
+*.class
+
+# Native Windows Desktop Application Bundle (contains bundled JRE runtime)
+dist/
+build_jar_temp/
+jpackage_input/
+
+# Logs and temporary build files
+*.log
+*.tmp
+sources.txt
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
